@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 1,
+    "Username": "root",
+    "Name": "Administrator",
+    "Email": "admin@example.com",
+    "AvatarUrl": "http://www.gravatar.com/avatar/e64c7d89f26bd1972efa854d13d7dd61?s=80&d=identicon",
+    "PrivateToken": "yCaCw43_8aXiWv249C1z",
+    "Host": "http://192.168.0.123",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 1
+  }
+}
